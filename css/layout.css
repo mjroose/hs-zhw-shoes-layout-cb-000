@@ -33,6 +33,7 @@
 .col-2 {
   float: left;
   width: 66%;
+  padding-bottom: 100%;
 }
 
 .col-3 {
